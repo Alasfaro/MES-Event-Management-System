@@ -13,4 +13,5 @@ refs - Reference material used for the project, including papers
 src - Source code, including web administrator, web user, mobile application, database, etc.
 test - Test cases
 
-[expo.pdf](https://github.com/user-attachments/files/28441841/expo.pdf)
+<img width="9695" height="7295" alt="expo-1" src="https://github.com/user-attachments/assets/ff024565-6d77-4209-b27b-75b4e4bf02d3" />
+
