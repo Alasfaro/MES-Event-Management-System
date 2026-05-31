@@ -12,3 +12,5 @@ docs - Documentation for the project
 refs - Reference material used for the project, including papers
 src - Source code, including web administrator, web user, mobile application, database, etc.
 test - Test cases
+
+[expo.pdf](https://github.com/user-attachments/files/28441841/expo.pdf)
